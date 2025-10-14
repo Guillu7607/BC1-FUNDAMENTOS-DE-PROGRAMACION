@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class AreaCirculo {
+  public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in)
+     System.out.print("Introduce el primer número: ");
+     double num1 = next.scanner.nextDouble();
+     System.out.print("Introduce el segundo número: ");
+     double num2 = next.scanner.nextDouble();
+     System.out.print("Introduce el tercer número: ");
+     double num3 = next.scanner.nextDouble();
+     
+     double promedio = (num1 +num2 + num3) / 3;
+     system.out.printf("El promedio entre los números es: %.2f" ,promedio);
+  }
+}
+
